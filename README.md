@@ -1,4 +1,4 @@
-Arch linux has dependencies too new to build [DevilutionX](https://github.com/diasurgical/DevilutionX) so i made a docker container running debian to circumvent that.
+Arch linux has dependencies too new to build [DevilutionX](https://github.com/diasurgical/DevilutionX) for the 3ds so i made a docker container running debian to circumvent that.
 # How to run
 ## 1. Clone DevilutionX source
 ```git clone https://github.com/diasurgical/DevilutionX DevilutionX-3ds```
